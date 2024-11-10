@@ -43,4 +43,6 @@
    * User-Friendly: The calculator follows a familiar layout and is easy to navigate, even for beginners.
    * Error Feedback: Displays an "Error" message if an invalid operation is attempted.
    * Clean Visual Design: The dark theme and bright, color-coded buttons enhance usability and aesthetic appeal.
-This calculator is a straightforward and effective tool for performing basic arithmetic operations. It serves as both a useful tool and a great project for learning GUI development in Python. You can easily extend it with more advanced features, or modify the design to suit your needs.
+
+
+  This calculator is a straightforward and effective tool for performing basic arithmetic operations. It serves as both a useful tool and a great project for learning GUI development in Python. You can easily extend it with more advanced features, or modify the design to suit your needs.
