@@ -10,7 +10,16 @@
    * Calculation History: Maintains a list of previous calculations and displays them upon request.
    * Clear Button: Clears the current input to start fresh.
    * Exit Button: Closes the application.
-    
+
+  ### Application Structure
+  ### GUI Layout
+    * Main Window: The calculator window is created using Tkinter, with a black background and white buttons for all operations and digits.
+    * Entry Field: Displays the current expression and result of the calculation.
+    * Buttons:
+      * Buttons for digits (0-9) and operators (+, -, *, /).
+      * A button for evaluating the expression (=), clearing the entry (AC), and viewing the history (History).
+      * An "Exit" button to close the application.
+  
   ### How to Use the Calculator
   
    1. Perform Calculations:
